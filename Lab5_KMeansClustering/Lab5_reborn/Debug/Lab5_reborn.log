@@ -1,0 +1,27 @@
+﻿  Lab5_reborn.cpp
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(19,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(19,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(20,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(20,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(33,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(58,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(62,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(79,28): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(79,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(79,42): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(79,42): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(82,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(83,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(94,19): warning C4305: инициализация: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(100,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(100,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(101,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(101,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(102,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(103,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(103,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(136,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(136,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(137,66): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab5_reborn\Lab5_reborn\Lab5_reborn.cpp(137,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Lab5_reborn.vcxproj -> D:\Навчання\Labs\AI\Lab5_reborn\Debug\Lab5_reborn.exe
