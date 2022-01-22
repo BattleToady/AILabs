@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab1.cpp
+D:\Навчання\Labs\AI\Lab1\Lab1\Lab1.cpp(77,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab1\Lab1\Lab1.cpp(119,38): warning C4305: инициализация: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab1\Lab1\Lab1.cpp(145,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab1.vcxproj -> D:\Навчання\Labs\AI\Lab1\Debug\Lab1.exe
