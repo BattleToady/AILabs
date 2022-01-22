@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  Lab4.cpp
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(25,44): warning C4305: +=: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(37,44): warning C4305: +=: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(58,26): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(58,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(59,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(59,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(60,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(61,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(61,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(65,34): warning C4305: +=: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(67,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(67,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(68,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(68,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(75,21): warning C4305: инициализация: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(80,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(112,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(112,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(113,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(113,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(122,10): warning C4305: =: усечение из "double" в "float"
+D:\Навчання\Labs\AI\Lab4\Lab4\Lab4.cpp(130,36): warning C4305: аргумент: усечение из "double" в "float"
+  Lab4.vcxproj -> D:\Навчання\Labs\AI\Lab4\Debug\Lab4.exe
